@@ -1,0 +1,209 @@
+{
+  "menu":{
+    "Atom":{
+        "value":"Atom",
+        "submenu":{
+            "About Atom":{"value":"Atom Hakkında"},
+            "View License":{"value":"Lisansı Göster"},
+            "Preferences...":{"value":"Tercihler..."},
+            "Open Your Config":{"value":"Ayarını Aç"},
+            "Open Your Init Script":{"value":"Başlangıç Betiğini Aç"},
+            "Open Your Keymap":{"value":"Tuş Haritanı Aç"},
+            "Open Your Snippets":{"value":"Kod Snippetlerini Aç"},
+            "Open Your Stylesheet":{"value":"Stillerini Aç"},
+            "Install Shell Commands":{"value":"Kabuk Komutlarını Yükle"},
+            "Hide Atom":{"value":"Atom'u Gizle"},
+            "Hide Others":{"value":"Diğerlerini Gizle"},
+            "Show All":{"value":"Hepsini Göster"},
+            "Quit":{"value":"Çık"},
+            "Restart and Install Update":{"value":"Baştan Başlat ve Güncelleştirme Yükle"},
+            "Check for Update":{"value":"Güncelleştirme Kontrol Et"},
+            "Downloading Update":{"value":"Güncelleştirme İndiriliyor"}
+        }
+    },
+    "File":{
+        "value":"Dosya",
+        "submenu":{
+            "New Window":{"value":"Yeni Pencere"},
+            "New File":{"value":"Yeni Dosya"},
+            "Open...":{"value":"Aç..."},
+            "Add Project Folder...":{"value":"Proje Klasörünü Ekle"},
+            "Reopen Last Item":{"value":"En Sonki Dosyayı Aç"},
+            "Save":{"value":"Kaydet"},
+            "Save As...":{"value":"Şöyle Kaydet"},
+            "Save All":{"value":"Hepsini Kaydet"},
+            "Close Tab":{"value":"Sekmeyi Kapat"},
+            "Close Pane":{"value":"Panoyu Kapat"},
+            "Close Window":{"value":"Pencereyi Kapat"}
+        }
+    },
+    "Edit":{
+        "value":"Düzenle",
+        "submenu":{
+            "Undo":{"value":"Geri Al"},
+            "Redo":{"value":"Yeniden Yap"},
+            "Cut":{"value":"Kes"},
+            "Copy":{"value":"Kopyala"},
+            "Copy Path":{"value":"Kopyalama Yolu"},
+            "Paste":{"value":"Yapıştır"},
+            "Select All":{"value":"Hepsini Seç"},
+            "Toggle Comments":{"value":"Açıklamaları(Commentleri) Değiştir"},
+            "Lines":{
+                "value":"Satırlar",
+                "submenu":{
+                    "Indent":{"value":"Satır Başı"},
+                    "Outdent":{"value":"Satır Sonu"},
+                    "Auto Indent":{"value":"Oto Satır Başı"},
+                    "Move Line Up":{"value":"Satır Üstüne Yönel"},
+                    "Move Line Down":{"value":"Satır Altına Yönel"},
+                    "Duplicate Lines":{"value":"Satırlardan Aynısını Yap"},
+                    "Delete Line":{"value":"Satırı Sil"},
+                    "Join Lines":{"value":"Satırlara Gir"}
+                }
+            },
+            "Text":{
+                "value":"Metin",
+                "submenu":{
+                    "Upper Case":{"value":"Büyük Harf"},
+                    "Lower Case":{"value":"Küçük Harf"},
+                    "Delete to End of Word":{"value":"Kelimenin Sonuna Kadar Sil"},
+                    "Delete Line":{"value":"Satırı Sil"},
+                    "Transpose":{"value":"Yerini Değiştir"}
+                }
+            },
+            "Folding":{
+                "value":"Açılır Kapanır Kodlar",
+                "submenu":{
+                    "Fold":{"value":"Kapat"},
+                    "Unfold":{"value":"Aç"},
+                    "Unfold All":{"value":"Hepsini Aç"},
+                    "Fold All":{"value":"Hepsini Kapat"},
+                    "Fold Level 1":{"value":"Katlama Seviyesi 1"},
+                    "Fold Level 2":{"value":"Katlama Seviyesi 2"},
+                    "Fold Level 3":{"value":"Katlama Seviyesi 3"},
+                    "Fold Level 4":{"value":"Katlama Seviyesi 4"},
+                    "Fold Level 5":{"value":"Katlama Seviyesi 5"},
+                    "Fold Level 6":{"value":"Katlama Seviyesi 6"},
+                    "Fold Level 7":{"value":"Katlama Seviyesi 7"},
+                    "Fold Level 8":{"value":"Katlama Seviyesi 8"},
+                    "Fold Level 9":{"value":"Katlama Seviyesi 9"}
+                }
+            },
+            "Select Encoding":{"value":"Dil Kodlaması Seçimi"},
+            "Go to Line":{"value":"Satıra Git"},
+            "Reflow Paragraph":{"value":"Paragrafı Akıt"},
+            "Reflow Selection":{"value":"Seçimi Akıt"},
+            "Bookmark":{
+                "value":"Yer İşareti",
+                "submenu":{
+                    "View All":{"value":"Hepsini Göster"},
+                    "Toggle Bookmark":{"value":"Yer İşareti Değiştir"},
+                    "Jump to Next Bookmark":{"value":"Sıradaki Yer İşaretine Git"},
+                    "Jump to Previous Bookmark":{"value":"Önceki Yer İşaretine Git"}
+                }
+            },
+            "Select Grammar":{"value":"Dil Bilgisi Seçimi"}
+        }
+    },
+    "Selection":{
+        "value":"Seçim",
+        "submenu":{
+            "Add Selection Above":{"value":"Yukarıya Seçim Ekle"},
+            "Add Selection Below":{"value":"Aşağıya Seçim Ekle"},
+            "Single Selection":{"value":"Tek Seçim"},
+            "Split into Lines":{"value":"Satırlara Ayır"},
+            "Select to Top":{"value":"En Tepeyi Seç"},
+            "Select to Bottom":{"value":"En Aşağıyı Seç"},
+            "Select Line":{"value":"Satır Seç"},
+            "Select Word":{"value":"Kelime Seç"},
+            "Select to Beginning of Word":{"value":"Kelime Başlangıcına Seçim"},
+            "Select to Beginning of Line":{"value":"Satır Başlangıcına Seçim"},
+            "Select to First Character of Line":{"value":"Satırın İlk Harfine Kadar Seçim"},
+            "Select to End of Word":{"value":"Kelimenin Son Harfine Kadar Seçim"},
+            "Select to End of Line":{"value":"Satır Sonuna Kadar Seçim"}
+        }
+    },
+    "Find":{
+        "value":"Dosya",
+        "submenu":{
+            "Find in Buffer":{"value":"Bufferda(Ara Bellekte) Bul"},
+            "Replace in Buffer":{"value":"Bufferda(Ara Bellekte) Değiştir"},
+            "Select Next":{"value":"Sıradakini Seç"},
+            "Select All":{"value":"Hepsini Seç"},
+            "Toggle Find in Buffer":{"value":"Bufferda(Ara Bellekte) Bulmayı Değiştir"},
+            "Find in Project":{"value":"Proje İçinde Bul"},
+            "Toggle Find in Project":{"value":"Proje İçinde Bulmayı Değiştir"},
+            "Find Next":{"value":"Sıradakini Bul"},
+            "Find Previous":{"value":"Öncekini Bul"},
+            "Replace Next":{"value":"Sıradakini Değiştir"},
+            "Replace All":{"value":"Hepsini Değiştir"},
+            "Find Buffer":{"value":"Buffer(Ara Bellek) Bul"},
+            "Find File":{"value":"Dosya Bul"},
+            "Find Modified File":{"value":"Değiştirilmiş Dosya Bul"}
+        }
+    },
+    "View":{
+        "value":"Göster",
+        "submenu":{
+            "Reload":{"value":"Yeniden Yükle"},
+            "Toggle Full Screen":{"value":"Tam Ekrana Değiştir"},
+            "Panes":{
+                "value":"Çerçeveler",
+                "submenu":{
+                    "Split Up":{"value":"Yukarıyı Böl"},
+                    "Split Down":{"value":"Aşağıyı Böl"},
+                    "Split Left":{"value":"Sol Tarafı Böl"},
+                    "Split Right":{"value":"Sağ Tarafı Böl"},
+                    "Focus Next Pane":{"value":"Sıradaki Çerçeveye Odaklan"},
+                    "Focus Previous Pane":{"value":"Önceki Çerçeveye Odaklan"},
+                    "Focus Pane Above":{"value":"Yukardaki Çerçeveye Odaklan"},
+                    "Focus Pane Below":{"value":"Aşağıdaki Çerçeçeye Odaklan"},
+                    "Focus Pane On Left":{"value":"Soldaki Çerçeveye Odaklan"},
+                    "Focus Pane On Right":{"value":"Sağdaki Çerçeveye Odaklan"},
+                    "Close Pane":{"value":"Çerçeveyi Kapat"}
+                }
+            },
+            "Developer":{
+                "value":"Geliştirici",
+                "submenu":{
+                    "Open In Dev Mode...":{"value":"Geliştirini Modunda Aç"},
+                    "Run Atom Specs":{"value":"Atom Şarlarını Çalıştır"},
+                    "Run Package Specs":{"value":"Paket Betiklerini Çalıştır"},
+                    "Toggle Developer Tools":{"value":"Geliştirici Araçlarını Değiştir"}
+                }
+            },
+            "Toggle Soft Wrap":{"value":"Yumuşak Bitirmeyi Değiştir"},
+            "Toggle Command Palette":{"value":"Komut Paletini Değiştir"},
+            "Toggle Tree View":{"value":"Ağacı Değiştir"},
+            "Toggle Tree Side":{"value":"Ağaç Tarafını Değiştir"}
+        }
+    },
+    "Packages":{
+        "value":"Paketler"
+    },
+    "Window":{
+        "value":"Pencere",
+        "submenu":{
+            "Minimize":{"value":"Minimize Et"},
+            "Zoom":{"value":"Yaklaştır"},
+            "Bring All to Front":{"value":"Hepsini Öne Al"}
+        }
+    },
+    "Help":{
+        "value":"Yardım",
+        "submenu":{
+            "Terms of Use":{"value":"Kullanım Koşulları"},
+            "Documentation":{"value":"Dökümantasyon"},
+            "Roadmap":{"value":"Yol Haritası"},
+            "Frequently Asked Questions":{"value":"Sıkça Sorular Sorular"},
+            "Community Discussions":{"value":"Topluluk Tartışmaları"},
+            "Report Issue":{"value":"Sorun Bildir"},
+            "Search Issue":{"value":"Sorun Ara"},
+            "Search Issues":{"value":"Sorunları Ara"},
+
+            "Send Feedback":{"value":"Geri Dönüş Yolla"},
+            "Release Notes":{"value":"Sürüm Notları"}
+        }
+    }
+  }
+}

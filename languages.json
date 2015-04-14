@@ -12,5 +12,7 @@
   {"language":"Korean", "path":"../i18n/korean.json"},
   {"language":"Finnish", "path":"../i18n/finnish.json"},
   {"language":"Spanish", "path":"../i18n/spanish.json"},
-  {"language":"Ukrainian", "path":"../i18n/ukrainian.json"}
+  {"language":"Ukrainian", "path":"../i18n/ukrainian.json"},
+  {"language":"Turkish", "path":"../i18n/turkish.json"}
+
 ]
